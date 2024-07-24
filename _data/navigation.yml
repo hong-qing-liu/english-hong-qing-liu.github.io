@@ -1,0 +1,26 @@
+# main links links
+main:
+  - title: "CV"
+    url: /cv/
+    #url: /files/Resume.pdf
+
+  #- title: "Portfolio"
+  #   url: /portfolio/
+  
+  - title: "Publications"
+    url: /publications/
+    # url: https://scholar.google.es/citations?user=xxxxxxxx=en
+      
+  - title: "Research"
+    url: /talks/    
+
+  - title: "Posts"
+    url: /year-archive/
+
+  - title: "Demo"
+    url: /demo/   
+
+    
+  - title: "English"
+    url: https://xxx.github.io
+    external: true
