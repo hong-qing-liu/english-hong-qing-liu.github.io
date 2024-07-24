@@ -21,6 +21,6 @@ main:
     url: /demo/   
 
     
-  - title: "English"
-    url: https://xxx.github.io
+  - title: "中文"
+    url: https://hong-qing-liu/hong-qing-liu.github.io
     external: true
