@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Hongqing's Homepage"
 title_separator          : "-"
-name                     : &name "刘宏清(Hongqing Liu)"
+name                     : &name "Hongqing Liu"
 description              : &description "personal description"
-url                      : https://hong-qing-liu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://english-hong-qing-liu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hong-qing-liu/hong-qing-liu.github.io"
+repository               : "hong-qing-liu/english-hong-qing-liu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "刘宏清(Hongqing Liu)"
+  name             : "Hongqing Liu"
   avatar           : "hongqing.png"
   bio              : "Audio Signal Processing"
   location         : "Chongqing, China"
-  employer         : "重庆邮电大学"
+  employer         : "CQUPT"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=04nXyUQAAAAJ&hl=en&oi=ao"
   email            : "hongqingliu@cqupt.edu.cn"
