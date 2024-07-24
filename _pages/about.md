@@ -12,25 +12,25 @@ redirect_from:
 
 
  
-# 个人简介 (Profile)
+# Profile 
 ![Illustration of combining vision and language modalities](/images/pp.png){: .align-right width="400px"}
-刘宏清于2009年博士毕业香港城市大学，电子工程系。2009到2013年，在新加坡国立大学，水下声学实验室，任研究员。2013年加入重庆邮电大学，通信学院，任教授，博导。刘宏清教授长期从事通信、信号处理、语音等多学科的研发工作。在IEEE Trans. Geoscience and Remote Sensing, IEEE Trans. Image Processing, IEEE Trans. Signal Processing, IEEE Trans. Communications, IEEE Trans. Information Theory, The Journal of the Acoustical Society of America等国际高水平SCI期刊和IEEE ICASSP, INTERSPEECH, ICLR等国际著名会议上发表了被SCI/EI 检索的学术论文200余篇，近三年授权PCT 国际专利1 项、国家发明专利4 项。于2009年获得陕西省高等学校科学技术奖一等奖(No. 06C8) 和陕西省科技进步奖二等奖 (No. 06-2-010-R9)。于2016年获得IEEE DSP会议best paper award，获得SP，DSP等多个期刊的outstanding reviewer，IEEE高级会员，重庆市高层次人才，重庆英才。刘宏清现阶段主要从事统计信号处理方面的研究工作，着重研究语音信号处理。
+Hongqing Liu received his Ph.D. in Electronic Engineering from City University of Hong Kong in 2009. From 2009 to 2013, he worked as a researcher at the Underwater Acoustics Laboratory, National University of Singapore. In 2013, he joined the School of Communication Engineering at Chongqing University of Posts and Telecommunications, where he currently serves as a professor and doctoral supervisor. Professor Liu has long been engaged in multidisciplinary R&D work in communications, signal processing, and speech. He has published over 200 SCI/EI-indexed academic papers in high-level international journals such as IEEE Trans. Geoscience and Remote Sensing, IEEE Trans. Image Processing, IEEE Trans. Signal Processing, IEEE Trans. Communications, IEEE Trans. Information Theory, and The Journal of the Acoustical Society of America, as well as in prestigious international conferences like IEEE ICASSP, INTERSPEECH, and ICLR. In the past three years, he has been granted one PCT international patent and four national invention patents. In 2009, he received the First Prize of Shaanxi Higher Education Science and Technology Award (No. 06C8) and the Second Prize of Shaanxi Science and Technology Progress Award (No. 06-2-010-R9). In 2016, he received the Best Paper Award at the IEEE DSP conference, and he has been recognized as an outstanding reviewer for journals such as SP and DSP. He is a senior member of IEEE, a high-level talent in Chongqing, and a Chongqing talent. Professor Liu's current research focuses on statistical signal processing, with an emphasis on speech signal processing.
 
-# 研究方向 
+# Research Directions
 
-- 语音信号处理：声学回声消除，声事件检测，主动/被动降噪，空间音频，声场控制以及音质恢复等。
-- 智能音频信号处理：人工智能/深度学习算法研究，及其在音频信号处理方面的应用。 
-- 统计信号处理：阵列信号处理，目标跟踪，参数估计以及凸优化等。 
+- Speech Signal Processing: Acoustic echo cancellation, sound event detection, active/passive noise reduction, spatial audio, sound field control, and audio quality restoration.
+- Intelligent Audio Signal Processing: Research on artificial intelligence/deep learning algorithms and their applications in audio signal processing.
+- Statistical Signal Processing: Array signal processing, target tracking, parameter estimation, and convex optimization.
 
-# 教学 
-- 信号与系统(中，英文，本科生)
-- 数字信号处理(英文，本科生)
-- 现代信号处理技术(中，英文，研究生)
+# Teaching
+- Signals and Systems (Chinese & English, Undergraduate)
+- Digital Signal Processing (English, Undergraduate)
+- Modern Signal Processing Techniques (Chinese & English, Graduate)
 
-# 博士生招生 
-- 具有电子工程或计算机专业的硕士学位
-- 具有音频信号处理背景优先
-- 发表领域高水平论文优先
+# PhD Admissions
+- Master's degree in Electrical Engineering or Computer Science
+- Background in audio signal processing is preferred
+- Publication of high-level papers in the field is preferred
 
 
 
