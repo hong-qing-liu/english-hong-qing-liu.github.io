@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 代表性论文
-### 期刊 (Journal)
+## Selected Publications
+### Journal
 - T.-C. Lin, L. Hou, <strong>H. Q. Liu</strong>, Y. Li, and Trieu-Kien Truong, <span style="color: blue;">Reconstruction of single image from multiple blurry measured images</span>, IEEE Trans. Image Processing, vol. 27, iss. 6, pp. 2762-2776, Jun. 2018.
    
 - <strong>H. Q. Liu</strong>, D. Li, Y. Zhou, and Trieu-Kien Truong, <span style="color: blue;">Simultaneous Radio Frequency and Wideband Interference Suppression in SAR Signals via Sparsity Exploitation in Time-Frequency Domain</span>, IEEE Trans. Geoscience and Remote Sensing, vol. 56, iss. 10, pp. 5780-5793, Oct. 2018.
@@ -29,7 +29,7 @@ author_profile: true
 
 - Y.Liu, B. Jiang, <strong>H. Q. Liu</strong> Y. Zhao, F. Xiong, and Y. Zhou, <span style="color: blue;">A Novel Earprint: Stimulus-Frequency Otoacoustic Emission for Biometric Recognition</span>, IEEE Transactions on Information Forensics & Security, vol. 18, pp. 5484-5494, 2023.
     
-### 会议 (Conference)
+### Conference
 - Z. Luo and <strong>H. Q. Liu</strong>, <span style="color: blue;">Robust Hybrid Transceiver Designs for Millimeter Wave AF Cooperative Systems</span>, VTC-fall, Honolulu, USA, Sept. 2019.
 
 - X. Zhang, <strong>H. Q. Liu</strong>, Z. Luo and Y. Zhou, <span style="color: blue;">Joint Image Deblur and Poisson Denoising based on Adaptive Dictionary Learning</span>, IEEE International Workshop on Signal Processing Systems (SiPS), Nanjing, China, Oct. 2019.
@@ -60,7 +60,7 @@ author_profile: true
 
 - C. Shi, K. Huang, G. Lu, X. Gao, and <strong>H. Q. Liu</strong>, <span style="color: blue;">On the Analysis of GAN-based Image-to-Image Translation with Gaussian Noise Injection</span>, International Conference on Learning Representations (ICLR), Vienna, Austria, May 2024.
 
-## 获奖 (Awards)
+## Awards
 - National Silver Medal, The intelligent wheelchair based on GIS and MIC array speech recognition, The 5th China College Students 'Internet Plus' Innovation and Entrepreneurship Competition, 2019.
 
 - Global Top 10, Beamforming Videos Contest, ICASSP, Spain, 2020.
@@ -71,17 +71,9 @@ author_profile: true
 
 - L3DAS22: Machine Learning for 3D Audio Signal Processing - 3D Sound Event Localization and Detection, Second place, ICASSP, Singapore, 2022.
 
-- Robust Anomaly Sound Detection Framework for Machine Condition Monitoring, DCASE (声事件检测全球比赛) Task 2, 全球第一名, 2022.
+- Robust Anomaly Sound Detection Framework for Machine Condition Monitoring, DCASE Task 2, First place, 2022.
 
-- 踏“铁”寻声--高铁底盘稳定速检供应商，第八届中国国际互联网+大学生创新创业大赛，重庆市金奖，2022.
+- Attention mechanism network and data augmentation for sound event localization and detection, DCASE Task 3.A, Second place, 2023.
 
-- 第八届中国国际互联网+大学生创新创业大赛，优秀创新创业导师，重庆市教育委员会，2022.
-
-- Attention mechanism network and data augmentation for sound event localization and detection, DCASE Task 3.A, 全球第二名, 2023.
-
-- 第三届成渝地区双城经济圈留学生创新创业大赛，二等奖，重庆市教育委员会，四川省教育厅， 2023.
-
-- 第三届成渝地区双城经济圈留学生创新创业大赛， 优秀指导教师，重庆市教育委员会，四川省教育厅， 2023.
-
-- Power cue enhanced network and audio-visual fusion for sound event localization and detection of DCASE2024 Challenge, DCASE Task 3.A&B, 全球第四名, 2024.
+- Power cue enhanced network and audio-visual fusion for sound event localization and detection of DCASE2024 Challenge, DCASE Task 3.A&B, Fourth place, 2024.
 
