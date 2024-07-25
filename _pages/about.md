@@ -32,6 +32,7 @@ Hongqing Liu received his Ph.D. in Electronic Engineering from City University o
    
 
 # PhD Admissions 
+
   - Master's degree in Electrical Engineering or Computer Science
   - Background in audio signal processing is preferred
   - Publication of high-level papers in the field is preferred
