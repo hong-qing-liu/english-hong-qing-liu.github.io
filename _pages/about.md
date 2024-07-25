@@ -11,47 +11,6 @@ redirect_from:
 
 
 
- 
- <style>
-  body {
-    font-family: 'Times New Roman', Times, serif;
-  }
-  .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 20px;
-  }
-  .section {
-    width: 100%;
-    max-width: 800px;
-    margin: 20px 0;
-    padding: 20px;
-    background-color: #f9f9f9;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-  img {
-    border-radius: 50%;
-    width: 150px;
-  }
-  h1, h2, h3, h4, h5, h6 {
-    font-family: 'Arial', sans-serif;
-  }
-  ul {
-    list-style: none;
-    padding: 0;
-  }
-  ul li::before {
-    content: '•';
-    color: #0073e6;
-    font-weight: bold;
-    display: inline-block; 
-    width: 1em;
-    margin-left: -1em;
-  }
-</style>
 
 <div class="container">
   <div class="section">
@@ -89,6 +48,6 @@ redirect_from:
 </div>
 
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5cm1mgsf1ku&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
+ 
 
 
