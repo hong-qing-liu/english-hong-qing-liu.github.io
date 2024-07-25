@@ -1,16 +1,16 @@
 ---
-title: "语音识别 (Automatic speech recognition)"
+title: "Automatic speech recognition"
 collection: talks
 type: "Talk"
 permalink: /talks/ASR
 ---
 
-## 语音识别 
-- <font size=3> 利用transformer结构的encoder-decoder方案，可以实现轻松的转录。</font>  
+## Automatic speech recognition 
+- <font size=3> Utilizing a transformer-based encoder-decoder architecture, easy transcription can be achieved.</font>  
 
-### 方言识别
-- <font size=3> 采集了约40小时的重庆方言。</font>
-- <font size=3> 训练轻量化模型。 </font>
+### Dialect Recognition
+- <font size=3> We collected approximately 40 hours of Chongqing dialect.</font>
+- <font size=3> We trained a lightweight model. </font>
  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
     <iframe 
     src="//player.bilibili.com/player.html?isOutside=true&aid=1705132836&bvid=BV1dT421i7ZU&cid=1562461104&autoplay=0" 
