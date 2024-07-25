@@ -6,26 +6,36 @@ author_profile: true
 redirect_from:
   - /resume
 ---
- 
-## Education Background
 
-- Ph.D., City University of Hong Kong, Department of Electronic Engineering
-       		
-- M.S., Xidian University, Department of Electronic Engineering
-       		
-- B.S., Xidian University, Department of Electronic Engineering
-
-## Work Experience
-
-- Senior Tutor (Sept. 2018 - Present), Trans-national Education (TNE) Program, Chongqing University of Posts and Telecommunications - Brunel University London
+<div class="container">
+  <div class="section">
+    <img src="../images/profile.jpg" alt="Profile Picture">
+    <h1>Personal Experience</h1>
+  </div>
   
-- Professor (May 2013 - Present), School of Communication and Information Engineering, Chongqing University of Posts and Telecommunications
-  
-- Research Fellow (Oct. 2009 - Jan. 2013), Acoustic Research Laboratory, Tropical Marine Science Institute, National University of Singapore, Singapore
+  <div class="section">
+    <h2>Education Background</h2>
+    <ul>
+      <li><i class="fas fa-graduation-cap"></i> Ph.D., City University of Hong Kong, Department of Electronic Engineering</li>
+      <li><i class="fas fa-graduation-cap"></i> M.S., Xidian University, Department of Electronic Engineering</li>
+      <li><i class="fas fa-graduation-cap"></i> B.S., Xidian University, Department of Electronic Engineering</li>
+    </ul>
+  </div>
 
-## Personal Resume 
+  <div class="section">
+    <h2>Work Experience</h2>
+    <ul>
+      <li>Senior Tutor (Sept. 2018 - Present), Trans-national Education (TNE) Program, Chongqing University of Posts and Telecommunications - Brunel University London</li>
+      <li>Professor (May 2013 - Present), School of Communication and Information Engineering, Chongqing University of Posts and Telecommunications</li>
+      <li>Research Fellow (Oct. 2009 - Jan. 2013), Acoustic Research Laboratory, Tropical Marine Science Institute, National University of Singapore, Singapore</li>
+    </ul>
+  </div>
 
-- [View CV](../files/resume.pdf)
+  <div class="section">
+    <h2>Personal Resume</h2>
+    <p><a href="../files/resume.pdf">View CV</a></p>
+  </div>
+</div>
 
 
 
