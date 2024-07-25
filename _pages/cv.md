@@ -30,7 +30,7 @@ redirect_from:
     <h2>Personal Resume</h2>
     <p><a href="../files/resume.pdf">View CV</a></p>
   </div>
-</div>
+ 
 
 
 
