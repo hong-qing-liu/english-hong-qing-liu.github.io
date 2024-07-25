@@ -20,7 +20,7 @@ Hongqing Liu received his Ph.D. in Electronic Engineering from City University o
 # Research Directions
     
   - Speech Signal Processing: Acoustic echo cancellation, sound event detection, active/passive noise reduction, spatial audio, sound field control, and audio quality restoration. 
-  - Intelligent Audio Signal Processing: Research on artificial intelligence/deep learning algorithms and their applications in audio signal processing. 
+  - Intelligent Audio Signal Processing: Artificial intelligence/deep learning algorithms and their applications in audio signal processing. 
   - Statistical Signal Processing: Array signal processing, target tracking, parameter estimation, and convex optimization. 
   
 
