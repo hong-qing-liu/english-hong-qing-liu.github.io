@@ -7,17 +7,17 @@ author_profile: true
 
  
 
-## 我们提供一些模型算法的音频结果：
+## We here provide some audio clips from different models：
 
 ---
-### 语音增强 🎤
-在这个部分，我们展示语音增强算法的结果，可以通过以下链接查看：
+### Speech Enhancement 🎤
+In this section, we present the results of our speech enhancement algorithm:
 
-[查看语音增强 DEMO PAGE](https://wanliangdaxia.github.io/){:target="_blank"}
+[DEMO PAGE](https://wanliangdaxia.github.io/){:target="_blank"}
 
 ---
 
-### 超分辨 🔊
-在这个部分，我们展示超分辨率音频算法的结果，可以通过以下链接查看：
+### Speech Super-resolution 🔊
+In this section, we present the results of our speech super-resolution algorithm:
 
-[查看超分辨 DEMO PAGE](https://sdnetdemo.github.io/){:target="_blank"}
+[DEMO PAGE](https://sdnetdemo.github.io/){:target="_blank"}
