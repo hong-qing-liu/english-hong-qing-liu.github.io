@@ -7,12 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<div class="container">
-  <div class="section">
-    <img src="../images/profile.jpg" alt="Profile Picture">
-    <h1>Personal Experience</h1>
-  </div>
-  
+    
   <div class="section">
     <h2>Education Background</h2>
     <ul>
