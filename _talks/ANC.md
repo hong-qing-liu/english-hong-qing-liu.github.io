@@ -1,5 +1,5 @@
 ---
-title: "Active noise control 
+title: "Active noise control" 
 collection: talks
 type: "Talk"
 permalink: /talks/ANC
