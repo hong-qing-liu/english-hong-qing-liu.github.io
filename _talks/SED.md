@@ -6,7 +6,7 @@ permalink: /talks/SED
 ---
 
 ##  Acoustic(sound) event detection 
-- <font size=3> The objective of AED is to dentify and classify different types of sounds present within an audio signal.</font>  
+- <font size=3> The objective of AED is to identify and classify different types of sounds present within an audio signal.</font>  
 
 
 
