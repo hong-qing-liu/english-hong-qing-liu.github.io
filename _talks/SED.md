@@ -1,37 +1,37 @@
 ---
-title: "声事件检测 (Acoustic(sound) event detection)"
+title: "Acoustic(sound) event detection"
 collection: talks
 type: "Talk"
 permalink: /talks/SED
 ---
 
-##  声音事件检测 
-- <font size=3> 声事件检测(Acoustic(sound) event detection, A(S)ED)是对声音中所包含的声音种类进行判别。</font>  
+##  Acoustic(sound) event detection 
+- <font size=3> The objective of AED is to dentify and classify different types of sounds present within an audio signal.</font>  
 
 
 
-###  无监督异常声音检测
-- 我们提出的无监督异常声音检测鲁棒训练框架获得了DCASE2022 Task2的第一名！ 
+###  Unsupervised Anomalous Sound Detection
+- Our proposed robust training framework for unsupervised anomalous sound detection won the first place in DCASE2022 Task 2!
   
  
 ![AEC before](/images/dcase2022.png){: .align-center width="700px"}
 
  
-### 声事件定位与检测SELD
+### Sound Event Localization and Detection (SELD)
 
-- 在 ICASSP 2022 L3DAS22 挑战赛中采用了多特征融合深度学习模型，同时利用Ambisonics格式音频数据增广技术克服了模型的过拟合现象，有效的提升了系统性能。最终提交模型得到0.592的T2Metric得分，获得了全球第二名。
+- In the ICASSP 2022 L3DAS22 Challenge, we utilized a multi-feature fusion deep learning model along with Ambisonics-format audio data augmentation techniques to overcome model overfitting and significantly enhance system performance. The final submitted model achieved a T2Metric score of 0.592, securing second place globally.
 ![AEC before](/images/icasspr1.png){: .align-center width="700px"}
 
-### 音视频融合定位
+### Audio-Visual Fusion Localization
 
-- 我们提出的音视频融合检测与定位框架，在DCASE 2023 Task 3.A 音视频融合声事件检测与定位获得全球第二名。
+- Our proposed audio-visual fusion detection and localization framework secured second place globally in the DCASE 2023 Task 3.A Audio-Visual Fusion Sound Event Detection and Localization.
 ![AEC before](/images/dcase2023.png){: .align-center width="700px"}
 
-- 我们提出的音视频融合检测与定位框架，在DCASE 2024 Task 3.A&B 音视频融合声事件检测与定位均获得全球第四名。
+- Our proposed audio-visual fusion detection and localization framework achieved fourth place globally in both DCASE 2024 Task 3.A and Task 3.B Audio-Visual Fusion Sound Event Detection and Localization.
 ![AEC before](/images/2024task3a.png){: .align-center width="700px"}
 ![AEC before](/images/2024task3b.png){: .align-center width="700px"}
 
-### 视频演示(扇叶故障检测)
+### Video demo (Windblade Fault Detection)
    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
     <iframe 
     src="//player.bilibili.com/player.html?isOutside=true&aid=468455790&bvid=BV1L541117yt&cid=584375931&p=1&autoplay=0" 
