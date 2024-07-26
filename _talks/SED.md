@@ -1,12 +1,11 @@
 ---
-title: "<span style=\"color: blue;\">Acoustic(sound) event detection</span>"
+title: "<span style=\"color: blue; text-decoration: none;\"> Acoustic(sound) event detection </span>"       
 collection: talks
 type: "Talk"
 permalink: /talks/SED
 ---
 
 ---
-##  Acoustic(sound) event detection 
 - <font size=3> The objective of AED is to identify and classify different types of sounds present within an audio signal.</font>  
 
 
