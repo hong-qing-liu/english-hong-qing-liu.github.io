@@ -11,7 +11,7 @@ permalink: /talks/bf
 
 ---
 ###  Super-directionality
-- Utilizing the directionality of beamforming can accomplish various applications, such as noise reduction and separation.
+- <font size=3> Utilizing the directionality of beamforming can accomplish various applications, such as noise reduction and separation. </font>  
   
  
 - before BF
