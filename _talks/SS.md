@@ -1,5 +1,5 @@
 ---
-title: "Source separation"
+title: "<span style=\"color: blue;\">Source separation</span>"
 collection: talks
 type: "Talk"
 permalink: /talks/SS
