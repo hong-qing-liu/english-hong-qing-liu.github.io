@@ -9,9 +9,9 @@ redirect_from:
 
 - - -    
 # Education Background 
-  - Ph.D., City University of Hong Kong, Department of Electronic Engineering</li>
-  - M.S., Xidian University, Department of Electronic Engineering</li>
-  - B.S., Xidian University, Department of Electronic Engineering</li>
+  - Ph.D., City University of Hong Kong, Department of Electronic Engineering
+  - M.S., Xidian University, Department of Electronic Engineering
+  - B.S., Xidian University, Department of Electronic Engineering
    
 - - -
 # Work Experience 
