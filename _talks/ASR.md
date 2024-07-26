@@ -1,5 +1,5 @@
 ---
-title: "Automatic speech recognition"
+title: "<span style=\"color: blue;\"> Automatic speech recognition </span>"
 collection: talks
 type: "Talk"
 permalink: /talks/ASR
