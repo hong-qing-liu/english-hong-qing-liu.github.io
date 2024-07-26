@@ -1,5 +1,5 @@
 ---
-title: "Beamforming"
+title: "<span style=\"color: blue;\">Beamforming</span>"
 collection: talks
 type: "Talk"
 permalink: /talks/bf
