@@ -1,12 +1,11 @@
 ---
-title: "<span style=\"color: blue;\">Beamforming</span>"
+title: "<span style=\"color: blue; text-decoration: none;\"> Beamforming </span>"    
 collection: talks
 type: "Talk"
 permalink: /talks/bf
 ---
 
 ---
-##  Beamforming 
 - <font size=3> Beamforming (BF) refers to the use of a microphone array to achieve directional processing, allowing signals within the main lobe to pass through without loss, while effectively suppressing signals in the side lobes.</font>  
 
 
