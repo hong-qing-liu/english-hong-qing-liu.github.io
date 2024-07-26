@@ -13,8 +13,7 @@ body {
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family; /*'Times New Roman', Times, serif;*/ /*STKaiti !important;*/ /*$global-font-family;*/  /* "楷体","楷体_GB2312"*/
-  line-height: 1.0;
-  letter-spacing: 0.1px;
+  line-height: 1.1;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
