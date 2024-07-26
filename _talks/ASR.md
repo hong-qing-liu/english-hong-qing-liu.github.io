@@ -1,13 +1,12 @@
 ---
-title: "<span style=\"color: blue;\"> Automatic speech recognition </span>"
+title: "<span style=\"color: blue; text-decoration: none;\"> Automatic speech recognition </span>"
 collection: talks
 type: "Talk"
 permalink: /talks/ASR
 ---
 
 ---
-## Automatic speech recognition 
-- <font size=3> Utilizing a transformer-based encoder-decoder architecture, easy transcription can be achieved.</font>  
+ - <font size=3> Utilizing a transformer-based encoder-decoder architecture, easy transcription can be achieved.</font>  
 
 ---
 ### Dialect Recognition
