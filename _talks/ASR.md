@@ -5,9 +5,11 @@ type: "Talk"
 permalink: /talks/ASR
 ---
 
+---
 ## Automatic speech recognition 
 - <font size=3> Utilizing a transformer-based encoder-decoder architecture, easy transcription can be achieved.</font>  
 
+---
 ### Dialect Recognition
 - <font size=3> We collected approximately 40 hours of Chongqing dialect.</font>
 - <font size=3> We trained a lightweight model. </font>
