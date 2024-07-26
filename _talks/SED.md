@@ -11,7 +11,7 @@ permalink: /talks/SED
 
 ---
 ###  Unsupervised Anomalous Sound Detection
-- Our proposed robust training framework for unsupervised anomalous sound detection won the first place in DCASE2022 Task 2!
+- <font size=3> Our proposed robust training framework for unsupervised anomalous sound detection won the first place in DCASE2022 Task 2! </font>  
   
  
 ![AEC before](/images/dcase2022.png){: .align-center width="700px"}
@@ -19,16 +19,16 @@ permalink: /talks/SED
 --- 
 ### Sound Event Localization and Detection (SELD)
 
-- In the ICASSP 2022 L3DAS22 Challenge, we utilized a multi-feature fusion deep learning model along with Ambisonics-format audio data augmentation techniques to overcome model overfitting and significantly enhance system performance. The final submitted model achieved a T2Metric score of 0.592, securing second place globally.
+- <font size=3> In the ICASSP 2022 L3DAS22 Challenge, we utilized a multi-feature fusion deep learning model along with Ambisonics-format audio data augmentation techniques to overcome model overfitting and significantly enhance system performance. The final submitted model achieved a T2Metric score of 0.592, securing second place globally. </font>  
 ![AEC before](/images/icasspr1.png){: .align-center width="700px"}
 
 ---
 ### Audio-Visual Fusion Localization
 
-- Our proposed audio-visual fusion detection and localization framework secured second place globally in the DCASE 2023 Task 3.A Audio-Visual Fusion Sound Event Detection and Localization.
+- <font size=3> Our proposed audio-visual fusion detection and localization framework secured second place globally in the DCASE 2023 Task 3.A Audio-Visual Fusion Sound Event Detection and Localization. </font>  
 ![AEC before](/images/dcase2023.png){: .align-center width="700px"}
 
-- Our proposed audio-visual fusion detection and localization framework achieved fourth place globally in both DCASE 2024 Task 3.A and Task 3.B Audio-Visual Fusion Sound Event Detection and Localization.
+- <font size=3> Our proposed audio-visual fusion detection and localization framework achieved fourth place globally in both DCASE 2024 Task 3.A and Task 3.B Audio-Visual Fusion Sound Event Detection and Localization. </font>  
 ![AEC before](/images/2024task3a.png){: .align-center width="700px"}
 ![AEC before](/images/2024task3b.png){: .align-center width="700px"}
 
