@@ -1,5 +1,5 @@
 ---
-title: "Speech Enhancement"
+title: "<span style=\"color: blue;\">Speech Enhancement</span>"
 collection: talks
 type: "Talk"
 permalink: /talks/SE
