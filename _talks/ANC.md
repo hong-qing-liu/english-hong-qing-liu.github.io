@@ -1,5 +1,5 @@
 ---
-title: "Active noise control" 
+title: "<span style=\"color: blue;\"> Active noise control </span>" 
 collection: talks
 type: "Talk"
 permalink: /talks/ANC
