@@ -5,11 +5,12 @@ type: "Talk"
 permalink: /talks/SS
 ---
 
+---
 ## Source separation
 - <font size=3> ource separation (SS) is synonymous with the cocktail party problem, referring to the extraction of individual speakers from mixed signals of multiple speakers. </font>  
 
 
-
+---
 ###  Full-Network Source Separation
 - By leveraging deep non-linear encoding and improved attention mechanisms, we can more effectively separate sources, yielding clear speech for each speaker.
   
