@@ -1,12 +1,11 @@
 ---
-title: "<span style=\"color: blue;\"> Active noise control </span>" 
+title: "<span style=\"color: blue; text-decoration: none;\"> Acoustic active control </span>" 
 collection: talks
 type: "Talk"
 permalink: /talks/ANC
 ---
 
 ---
-##  Active Noise Control/Active Noise Cancellation
 - <font size=3> Active Noise Control (ANC) utilizes the principle of phase inversion to actively cancel noise, creating a quiet environment.</font>  
 
 
