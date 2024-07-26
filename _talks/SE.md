@@ -5,11 +5,12 @@ type: "Talk"
 permalink: /talks/SE
 ---
 
+---
 ## Speech Enhancement
 - <font size=3> Sound quality restoration includes various aspects such as noise reduction, Howling suppression, and speech super-resolution, aiming to enhance overall audio quality.</font>  
 
 
-
+---
 ###  Noise reduction
 -- <font size=3> Based on neural network solutions, non-stationary noise can be effectively removed, achieving superior results compared to traditional algorithms. The model is lightweight, making it suitable for real-time implementation.</font>  
   
@@ -26,6 +27,7 @@ permalink: /talks/SE
 
 -- Noise reduction *[DEMOPAGE](https://wanliangdaxia.github.io/){:target="_blank"}*.
 
+---
 ###  Howling suppression
 
 -- <font size=3> In sound amplification scenarios, the sound emitted by the speaker is picked up again by the microphone, forming a closed loop and causing a piercing feedback noise. This not only easily damages equipment but also affects the auditory experience.</font>  
@@ -41,7 +43,7 @@ permalink: /talks/SE
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/howl-enhance.wav">{: .align-center}
 
- 
+--- 
 ###  Speech super-resolution 
 
 -- <font size=3> The main purpose of SSR it to convert low-sample-rate speech into high-sample-rate speech to enhance the listening experience. </font>  
