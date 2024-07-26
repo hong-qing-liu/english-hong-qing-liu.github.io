@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+---
 ## Selected Publications
+---
 ### Journal
 - T.-C. Lin, L. Hou, <strong>H. Q. Liu</strong>, Y. Li, and Trieu-Kien Truong, <span style="color: blue;">Reconstruction of single image from multiple blurry measured images</span>, IEEE Trans. Image Processing, vol. 27, iss. 6, pp. 2762-2776, Jun. 2018.
    
