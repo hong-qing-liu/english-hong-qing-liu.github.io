@@ -13,7 +13,8 @@ redirect_from:
   - M.S., Xidian University, Department of Electronic Engineering
   - B.S., Xidian University, Department of Electronic Engineering
    
-- - -
+<hr>
+
 # Work Experience 
  - Senior Tutor (Sept. 2018 - Present), Trans-national Education (TNE) Program, Chongqing University of Posts and Telecommunications - Brunel University London
  - Professor (May 2013 - Present), School of Communication and Information Engineering, Chongqing University of Posts and Telecommunications
