@@ -1,12 +1,11 @@
 ---
-title: "<span style=\"color: blue;\">Speech Enhancement</span>"
+title: "<span style=\"color: blue; text-decoration: none;\"> Speech enhancement </span>"    
 collection: talks
 type: "Talk"
 permalink: /talks/SE
 ---
 
 ---
-## Speech Enhancement
 - <font size=3> Sound quality restoration includes various aspects such as noise reduction, Howling suppression, and speech super-resolution, aiming to enhance overall audio quality.</font>  
 
 
