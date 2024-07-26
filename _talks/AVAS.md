@@ -1,5 +1,5 @@
 ---
-title: "Acoustic vehicle alerting system"
+title: "<span style=\"color: blue;\"> Acoustic vehicle alerting system </span>"
 collection: talks
 type: "Talk"
 permalink: /talks/AVAS
