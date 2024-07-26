@@ -1,12 +1,11 @@
 ---
-title: "<span style=\"color: blue;\"> Large Language Model</span>"
+title: "<span style=\"color: blue; text-decoration: none;\"> Large language model </span>"   
 collection: talks
 type: "Talk"
 permalink: /talks/LLM
 ---
 
 ---
-##  Large Language Model - LLM, LMM
 - <font size=3> The rapid development of large models has provided many possibilities for downstream tasks using LLM.</font>  
 
 
