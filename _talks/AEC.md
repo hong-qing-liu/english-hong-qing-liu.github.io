@@ -1,5 +1,5 @@
 ---
-title: "<span style="color: blue;"> Acoustic Echo Cancellation </span>"
+title: "<span style=\"color: blue;\"> Acoustic Echo Cancellation </span>"
 collection: talks
 type: "Talk"
 permalink: /talks/AEC
