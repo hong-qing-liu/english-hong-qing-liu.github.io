@@ -1,12 +1,11 @@
 ---
-title: "<span style=\"color: blue;\">Sound field control</span>"
+title: "<span style=\"color: blue; text-decoration: none;\"> Sound field control </span>"      
 collection: talks
 type: "Talk"
 permalink: /talks/WFS
 ---
 
 ---
-## Sound Field Control 
 - <font size=3> By controlling the sound field in bright and dark zones, different spatial allocations of the sound field can be achieved.</font>
 
 
