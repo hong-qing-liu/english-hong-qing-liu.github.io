@@ -5,23 +5,25 @@ type: "Talk"
 permalink: /talks/SED
 ---
 
+---
 ##  Acoustic(sound) event detection 
 - <font size=3> The objective of AED is to identify and classify different types of sounds present within an audio signal.</font>  
 
 
-
+---
 ###  Unsupervised Anomalous Sound Detection
 - Our proposed robust training framework for unsupervised anomalous sound detection won the first place in DCASE2022 Task 2!
   
  
 ![AEC before](/images/dcase2022.png){: .align-center width="700px"}
 
- 
+--- 
 ### Sound Event Localization and Detection (SELD)
 
 - In the ICASSP 2022 L3DAS22 Challenge, we utilized a multi-feature fusion deep learning model along with Ambisonics-format audio data augmentation techniques to overcome model overfitting and significantly enhance system performance. The final submitted model achieved a T2Metric score of 0.592, securing second place globally.
 ![AEC before](/images/icasspr1.png){: .align-center width="700px"}
 
+---
 ### Audio-Visual Fusion Localization
 
 - Our proposed audio-visual fusion detection and localization framework secured second place globally in the DCASE 2023 Task 3.A Audio-Visual Fusion Sound Event Detection and Localization.
@@ -31,6 +33,7 @@ permalink: /talks/SED
 ![AEC before](/images/2024task3a.png){: .align-center width="700px"}
 ![AEC before](/images/2024task3b.png){: .align-center width="700px"}
 
+---
 ### Video demo (Windblade Fault Detection)
    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
     <iframe 
