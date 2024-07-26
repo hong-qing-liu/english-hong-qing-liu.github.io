@@ -1,5 +1,5 @@
 ---
-title: "Large Language Model"
+title: "<span style=\"color: blue;\"> Large Language Model</span>"
 collection: talks
 type: "Talk"
 permalink: /talks/LLM
