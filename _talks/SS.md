@@ -6,7 +6,7 @@ permalink: /talks/SS
 ---
 
 ---
-- <font size=3> ource separation (SS) is synonymous with the cocktail party problem, referring to the extraction of individual speakers from mixed signals of multiple speakers. </font>  
+- <font size=3> Source separation (SS) is synonymous with the cocktail party problem, referring to the extraction of individual speakers from mixed signals of multiple speakers. </font>  
 
 
 ---
