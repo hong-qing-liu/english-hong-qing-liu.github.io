@@ -14,14 +14,14 @@ permalink: /talks/bf
 - <font size=3> Utilizing the directionality of beamforming can accomplish various applications, such as noise reduction and separation. </font>  
   
  
-- before BF
+- <font size=3> before BF </font>  
 ![AEC before](/images/bfbefore.png){: .align-right  width="700px"}
 
 ​<audio id="audio" controls="" preload="none">
       <source id="wav" src="../files/bfbefore.wav">{: .align-center}
  
 
-- After BF
+- <font size=3> After BF </font>  
 ![AEC before](/images/bfafter.png){: .align-right  width="700px"}
 
 ​<audio id="audio" controls="" preload="none">
