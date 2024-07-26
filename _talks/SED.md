@@ -1,5 +1,5 @@
 ---
-title: "Acoustic(sound) event detection"
+title: "<span style=\"color: blue;\">Acoustic(sound) event detection</span>"
 collection: talks
 type: "Talk"
 permalink: /talks/SED
