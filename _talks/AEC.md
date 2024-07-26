@@ -1,12 +1,12 @@
 ---
-title: "Acoustic echo cancellation"
+title: "<span style="color: blue;"> Acoustic Echo Cancellation </span>"
 collection: talks
 type: "Talk"
 permalink: /talks/AEC
 ---
 
 ---
-##  <span style="color: blue;"> Acoustic Echo Cancellation </span>
+##  Acoustic Echo Cancellation
 - <font size=3> Acoustic Echo Cancellation (AEC) uses the far-end signal as a reference to eliminate echoes in the near-end signal, ensuring clear communication.</font>  
 
 
