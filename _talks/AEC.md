@@ -6,7 +6,7 @@ permalink: /talks/AEC
 ---
 
 ---
-##  Acoustic Echo Cancellation
+##  <span style="color: blue;"> Acoustic Echo Cancellation </span>
 - <font size=3> Acoustic Echo Cancellation (AEC) uses the far-end signal as a reference to eliminate echoes in the near-end signal, ensuring clear communication.</font>  
 
 
