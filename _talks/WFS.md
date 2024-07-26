@@ -1,5 +1,5 @@
 ---
-title: "Sound field control"
+title: "<span style=\"color: blue;\">Sound field control</span>"
 collection: talks
 type: "Talk"
 permalink: /talks/WFS
