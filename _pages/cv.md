@@ -16,8 +16,8 @@ redirect_from:
 
 ---
 ## Work Experience 
- - Senior Tutor (Sept. 2018 - Present), Trans-national Education (TNE) Program, Chongqing University of Posts and Telecommunications - Brunel University London
- - Professor (May 2013 - Present), School of Communication and Information Engineering, Chongqing University of Posts and Telecommunications
+ - Senior Tutor (Sept. 2018 - Present), Trans-national Education (TNE) Program, Chongqing University of Posts and Telecommunications - Brunel University London, Chongqing, China
+ - Professor (May 2013 - Present), School of Communication and Information Engineering, Chongqing University of Posts and Telecommunications, Chongqing, China
  - Research Fellow (Oct. 2009 - Jan. 2013), Acoustic Research Laboratory, Tropical Marine Science Institute, National University of Singapore, Singapore
    
 - - -  
