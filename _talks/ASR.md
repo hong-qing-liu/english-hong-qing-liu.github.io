@@ -21,3 +21,7 @@ permalink: /talks/ASR
     </iframe>
   </div>
  
+### Cantonese-English Code-Switching Recognition
+- Due to the speaking patterns in specific regions, code-switching recognition better reflects localization. However, in such cases, the available corpus is generally scarce. In a single sentence or utterance, there may be rapid language switching (e.g., alternating between Cantonese and English). Additionally, Cantonese has six tones, while English typically lacks similar tonal variations. This requires the model to handle the alternating vocabulary and grammar structures of both languages.
+- Results
+  ![](/images/mixedASR.jpg){: .align-center width="600px"}
