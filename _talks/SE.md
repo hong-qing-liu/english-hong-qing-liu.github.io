@@ -59,3 +59,16 @@ permalink: /talks/SE
       <source id="wav" src="../files/superafter.wav">{: .align-center}
 
 -- SSR *[DEMOPAGE](https://sdnetdemo.github.io/){:target="_blank"}*.
+
+---
+###  Speech quality enhancemnet 
+  
+-- <font size=3> Interspeech2025 URGENT Challenge (Universal, Robust, and Generalizable speech EnhancemeNT systems) aims to bring more attention to constructing Universal, Robust and Generalizable speech EnhancemeNT models. To improve the universality of SE systems, the following distortions are considered: additive noise, reverberation, clipping, bandwidth extension, codec artifacts, packet loss, and wind noise. </font>  
+![goal](/images/interspeechgoal.PNG){: .align-center width="700px"}
+​ 
+ 
+
+-- <font size=3> 4th place globally！</font>  
+![results](/images/interspeechre.PNG){: .align-center width="700px"}
+​ 
+
