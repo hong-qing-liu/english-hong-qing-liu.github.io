@@ -33,6 +33,16 @@ permalink: /talks/SED
 ![AEC before](/images/2024task3b.png){: .align-center width="700px"}
 
 ---
+### Low Complexity SED
+- <font size=3> Our proposed low-complexity acoustic scene classification training framework achieved third place in DCASE 2025 Task 1！ </font>  
+![AEC before](/images/2025task1.png){: .align-center width="700px"}  
+
+---
+### City Scene Perception
+- <font size=3> Our proposed city scene perception model achieved third place in the APSIPA ASC 2025 Grand Challenge.！ </font>  
+![AEC before](/images/APSIPA2025city.png){: .align-center width="700px"}  
+
+---
 ### Video demo (Windblade Fault Detection)
    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
     <iframe 
