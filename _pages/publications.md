@@ -39,7 +39,9 @@ author_profile: true
 
 - L. Zhou, <strong>H. Q. Liu</strong>, L. Gan , Y. Zhou , M. Niedzwiecki, T.-K. Truong, <span style="color: blue;">A Novel Sparse Adaptive Filter for Suppressing Impulsive Disturbance in Audio Signals</span>,  Signal Processing, vol. 241, Apr. 2026.
 
--  W. Yan Z. Li, L. Gan,  <strong>H. Q. Liu</strong>, G. Li,  <span style="color: blue;">Difference-Based Recovery for Modulo Sampling: Tightened Bounds and Robustness Guarantees</span>, IEEE Transactions on Signal Processing, accepted.
+- W. Yan Z. Li, L. Gan,  <strong>H. Q. Liu</strong>, G. Li,  <span style="color: blue;">Difference-Based Recovery for Modulo Sampling: Tightened Bounds and Robustness Guarantees</span>, IEEE Transactions on Signal Processing, accepted.
+
+- C. Wei, X. Liao,  L. Yang,  Y. Wan, <strong>H. Q. Liu</strong>, <span style="color: blue;">Subband Active Noise Control with Pre-Trained Filters: A Low-Complexity Adaptive Combination Weight Algorithm</span>, Digital Signal Processing, accepted.
 
 
   
